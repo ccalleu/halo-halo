@@ -1,0 +1,46 @@
+10
+
+dir
+4535
+http://svn.pjsip.org/repos/pjproject/trunk/pjlib
+http://svn.pjsip.org/repos
+
+
+
+2013-05-30T07:01:11.340016Z
+4528
+ming
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+74dad513-b988-da41-8d7b-12977e46ad98
+
+build
+dir
+
+include
+dir
+
+lib
+dir
+
+src
+dir
+
+bin
+dir
+
+docs
+dir
+

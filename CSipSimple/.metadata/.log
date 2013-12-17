@@ -1,0 +1,45 @@
+!SESSION 2013-11-15 21:28:41.527 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/user/Desktop/CSipSimple.trunk/CSipSimple -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 2 2 2013-11-15 21:29:41.559
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-11-15 21:30:26.122 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 2 2 2013-11-15 21:31:14.355
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-11-15 21:31:15.999 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/user/Desktop/CSipSimple.trunk/CSipSimple -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 2 2 2013-11-15 21:31:56.110
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-11-19 01:19:36.958 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/user/Desktop/CSipSimple.trunk/CSipSimple -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 2 2 2013-11-19 01:20:34.553
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-11-19 01:23:41.725 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 2 2 2013-11-19 01:24:03.126
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)

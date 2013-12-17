@@ -1,0 +1,43 @@
+10
+
+dir
+4535
+http://svn.pjsip.org/repos/pjproject/trunk/pjsip/src
+http://svn.pjsip.org/repos
+
+
+
+2013-06-13T08:56:51.231535Z
+4534
+nanang
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+74dad513-b988-da41-8d7b-12977e46ad98
+
+pjsip-simple
+dir
+
+test
+dir
+
+pjsip
+dir
+
+pjsua-lib
+dir
+
+pjsip-ua
+dir
+
