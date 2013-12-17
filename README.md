@@ -11,6 +11,7 @@ Application is available free of charge.
 
 This fork of CSipSimple is maintained by: 
 C-Call.eu S.C.
+support@c-call.eu
 
 ===========================================================================================
 From CSipSimple README:
